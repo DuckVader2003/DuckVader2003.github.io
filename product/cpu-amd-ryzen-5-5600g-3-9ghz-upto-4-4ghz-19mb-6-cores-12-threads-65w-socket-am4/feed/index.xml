@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: CPU AMD RYZEN 5 5600G (3.9GHZ UPTO 4.4GHZ / 19MB / 6 CORES, 12 THREADS / 65W / SOCKET AM4)	</title>
+	<atom:link href="/product/cpu-amd-ryzen-5-5600g-3-9ghz-upto-4-4ghz-19mb-6-cores-12-threads-65w-socket-am4/feed/" rel="self" type="application/rss+xml" />
+	<link>/product/cpu-amd-ryzen-5-5600g-3-9ghz-upto-4-4ghz-19mb-6-cores-12-threads-65w-socket-am4/</link>
+	<description></description>
+	<lastBuildDate>Sat, 09 Sep 2023 09:51:45 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+</channel>
+</rss>
